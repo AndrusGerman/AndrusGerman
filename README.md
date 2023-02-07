@@ -17,7 +17,7 @@
 
 ## ❯ AndrusCodex
 
-I'm Andrus, a software engineer 💻 currently working at LinkoSoftware
+I'm Andrus, a software engineer 💻
 I am passionate to learn and try new things.
 Tech geek and latest news, with anything that has wires lights or a simple circuit board.
 

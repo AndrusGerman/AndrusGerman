@@ -21,18 +21,11 @@ I'm Andrus, a software engineer 💻
 I am passionate to learn and try new things.
 Tech geek and latest news, with anything that has wires lights or a simple circuit board.
 
-<div align="center">
-<p align="center"> <a href="https://twitter.com/andruscodex" target="blank"><img
-src="https://img.shields.io/twitter/follow/andruscodex?logo=twitter&style=for-the-badge"
-alt="andruscodex" /></a> </p>
-</div>
+
 
 <div align="center">
-<a href="https://codepen.io/andrusgerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="andrusgerman" height="30" width="40"></a>
 <a href="http://www.linkedin.com/in/andruscodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrusgerman" height="30" width="40"></a>
 <a href="https://dev.to/andrusgerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrusgerman" height="30" width="40"></a>
-<a href="https://stackoverflow.com/story/andruscodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andrusgerman" height="30" width="40"></a>
-<a href="https://www.instagram.com/andrus_codex/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrusgerman" height="30" width="40"></a>
 </div>
 
 

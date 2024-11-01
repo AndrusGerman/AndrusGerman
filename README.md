@@ -52,17 +52,18 @@ alt="andruscodex" /></a> </p>
 
 ## ❯ aptitud
 
-* Golang (+5 years)
-* Angular (+4 years)
-* Postgresql (+4 years)
-* TypeScript (+4 years)
-* JavaScript (+5 years)
-* NodeJS (+4 years)
-* Flutter (+3 years)
-* Linux (+6 years)
-* AWS (+3 years)
-* CI/CD (+3 years)
-* Docker (+3 years)
+* Golang (+8 years)
+* Kubernetes (+6 years)
+* Angular (+7 years)
+* Postgresql (+7 years)
+* TypeScript (+7 years)
+* JavaScript (+8 years)
+* NodeJS (+7 years)
+* Flutter (+6 years)
+* Linux (+9 years)
+* AWS (+6 years)
+* CI/CD (+5 years)
+* Docker (+7 years)
 * Jenkins
 * SOLID
 * Firebase
